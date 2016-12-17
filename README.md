@@ -8,3 +8,7 @@ https://github.com/localremote/netwho
 Check all current network connections on application level, including country of origin.
 App tested on Linux only.
  
+# usage
+
+python netwho.py
+
